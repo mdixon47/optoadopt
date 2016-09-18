@@ -508,8 +508,15 @@ body.single .top-bar {
 }
 
 .nominate-btn{
-  background: transparent;
-  border: 2px solid #00AFF0;
+  background: #00AFF0;
+  border: none;
+  font-size: 1.5em;
+  padding: 5px 10px;
+
+
+  height: 60px;
+  width: 180px;
+  color: #fff;
 
 }
 
